@@ -67,4 +67,4 @@ function updateResume() {
 }
 
 // Default: buka tab Registrasi
-openTab('Registrasi');
+openTab('ListPendaftar');
